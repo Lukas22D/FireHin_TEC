@@ -1,8 +1,4 @@
-#                                                      FireHin Tec.   :man_technologist:
-
-#                            ![logo](C:\workspace\Bootstrap_Exemplos\img\logo.png)
-
-  
+#                                                      FireHin Tec.   :man_technologist:  
 
 
 
