@@ -1,0 +1,42 @@
+.quem-somos{
+    background-color: rgb(158, 156, 149);
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin 0;
+}
+
+#quemsomos{
+    padding: 50px;  
+    color: #fff;  
+    background-image: url(../img/sep09.jpg);
+
+}
+
+#parceiros{
+    background-image: url(../img/sep09.jpg);
+    color: #fff;
+}
+
+.titulo{
+    color: #fff;
+    padding: 100px;
+}
+
+#serviços{
+    background-image: url(../img/sep09.jpg);
+
+}
+
+.bg-footer{
+    background-color: black;
+}
+
+
+
+.padding{
+    padding: 50px;
+}
+
